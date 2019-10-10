@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boughiepi.lukakivela.com/sitemap.xml
